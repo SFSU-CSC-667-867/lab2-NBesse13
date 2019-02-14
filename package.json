@@ -1,0 +1,23 @@
+{
+  "name": "lab2-nbesse13",
+  "version": "1.0.0",
+  "description": "Lab2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/lab2-NBesse13.git"
+  },
+  "author": "nick besse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/lab2-NBesse13/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/lab2-NBesse13#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
+  }
+}
